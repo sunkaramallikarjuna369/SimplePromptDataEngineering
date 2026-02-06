@@ -1,0 +1,13 @@
+product_id,product_name,category,sub_category,brand,unit_cost,list_price,weight_kg,supplier
+PROD-501,Wireless Mouse,Electronics,Accessories,TechGear,12.00,29.99,0.15,GlobalTech Supplies
+PROD-502,Bluetooth Headphones,Electronics,Audio,SoundMax,65.00,149.99,0.30,AudioWorld Inc
+PROD-503,USB-C Cable 3-Pack,Electronics,Accessories,ConnectPro,3.50,9.99,0.10,CableCo Ltd
+PROD-504,4K Monitor 27-inch,Electronics,Displays,ViewPrime,280.00,599.99,6.50,DisplayTech Corp
+PROD-505,Mechanical Keyboard,Electronics,Accessories,KeyMaster,35.00,79.99,0.85,InputDevices LLC
+PROD-506,Phone Case - Universal,Accessories,Protection,ShieldPro,4.00,12.50,0.08,CaseMakers Inc
+PROD-507,Portable SSD 1TB,Electronics,Storage,DataVault,110.00,249.99,0.12,StoragePro Corp
+PROD-508,Webcam HD 1080p,Electronics,Video,ClearView,15.00,34.99,0.18,VideoTech Ltd
+PROD-509,Gaming Laptop 15-inch,Electronics,Computers,PowerTech,450.00,899.99,2.30,CompuWorld Inc
+PROD-510,Desk Lamp LED,Home Office,Lighting,BrightLife,18.00,44.99,1.20,HomeTech Supplies
+PROD-511,Notebook Set (5-Pack),Office Supplies,Stationery,WritePro,5.00,19.99,0.60,OfficeMart Ltd
+PROD-512,Standing Desk Mat,Home Office,Ergonomics,ComfortZone,25.00,64.99,1.80,ErgoTech Inc

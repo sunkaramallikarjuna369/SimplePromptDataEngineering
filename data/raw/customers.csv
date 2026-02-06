@@ -1,0 +1,19 @@
+customer_id,first_name,last_name,email,phone,city,state,country,registration_date,customer_segment
+CUST-101,John,Smith,john.smith@email.com,212-555-0101,New York,NY,US,2023-06-15,Premium
+CUST-102,Maria,Garcia,maria.garcia@email.com,310-555-0102,Los Angeles,CA,US,2023-07-20,Regular
+CUST-103,James,Johnson,james.j@email.com,(312) 555-0103,Chicago,IL,US,2023-08-10,Premium
+CUST-104,Sarah,Williams,sarah.w@email.com,713-555-0104,Houston,TX,US,2023-09-05,Regular
+CUST-105,Robert,Brown,robert.b@email.com,602-555-0105,Phoenix,AZ,US,2023-09-12,Regular
+CUST-106,Lisa,Davis,lisa.davis@email.com,215-555-0106,Philadelphia,PA,US,2023-10-01,New
+CUST-107,Michael,Miller,m.miller@email.com,210-555-0107,San Antonio,TX,US,2023-10-15,New
+CUST-108,Jennifer,Wilson,jen.wilson@email.com,619-555-0108,San Diego,CA,US,2023-11-02,Regular
+CUST-109,David,Moore,david.m@email.com,214-555-0109,Dallas,TX,US,2023-11-18,Premium
+CUST-110,Emily,Taylor,emily.t@email.com,408-555-0110,San Jose,CA,US,2023-12-01,New
+CUST-111,Daniel,Anderson,dan.a@email.com,512-555-0111,Austin,TX,US,2023-12-10,Regular
+CUST-112,Amanda,Thomas,amanda.t@email.com,904-555-0112,Jacksonville,FL,US,2024-01-05,New
+CUST-113,Chris,Jackson,chris.j@email.com,817-555-0113,Fort Worth,TX,US,2024-01-10,New
+CUST-114,Michelle,White,m.white@email.com,614-555-0114,Columbus,OH,US,2024-01-12,Regular
+CUST-115,Kevin,Harris,kevin.h@email.com,704-555-0115,Charlotte,NC,US,2024-01-15,Premium
+CUST-116,Rachel,Martin,rachel.m@email.com,317-555-0116,Indianapolis,IN,US,2024-01-18,New
+CUST-117,Brian,Thompson,brian.t@email.com,415-555-0117,San Francisco,CA,US,2024-01-20,Regular
+CUST-118,Stephanie,Lee,steph.lee@email.com,303-555-0118,Denver,CO,US,2024-01-25,New
